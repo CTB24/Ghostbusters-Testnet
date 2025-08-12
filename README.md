@@ -181,7 +181,7 @@ nano trusted-peers
 # Add a list of the keybase usernames of your trusted peers. Add a space in between each one, without commas or new lines in between.
 ./trustedPublish.sh my-peer-info trusted-peers
 ```
-
+ios
 Update Wireguard and EOS `config.ini`
 ```console
  # update peers on the base config.ini
